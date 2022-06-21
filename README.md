@@ -34,8 +34,8 @@ Green energy stocks performed significantly better in 2017 than they did in 2018
 
 #### Original Script Performance
 
-##### 2017: 0.297 seconds
-##### 2018: 0.293 seconds
+##### 2017: 0.297 second runtime
+##### 2018: 0.293 second runtime
 
 #### Comparison
 
