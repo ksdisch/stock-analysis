@@ -19,12 +19,12 @@ The other purpose of this analysis was to refactor the original script to make i
 
 ### Original Script Versus Refactored Script Performance
 
-![2017 Analysis Speed](/Resources/VBA_Challenge_2017.png?raw=true "Title")
+![2017 Analysis Speed](/resources/VBA_Challenge_2017.png?raw=true "Title")
 
-Original: 0.090 seconds
-Refactored: 0.297 seconds
+Original: 0.297 seconds
+Refactored: 0.090 seconds
 
-![2018 Analysis Speed](/Resources/VBA_Challenge_2018.png?raw=true "Title")
+![2018 Analysis Speed](/resources/VBA_Challenge_2018.png?raw=true "Title")
 
 Original: 0.293
 Refactored: 0.086
